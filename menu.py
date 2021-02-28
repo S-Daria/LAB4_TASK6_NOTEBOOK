@@ -2,11 +2,13 @@
 Daria Shabatska
 LAB4 TASK6
 Menu class
+GitHub: https://github.com/S-Daria/LAB4_TASK6_NOTEBOOK.git
 """
 
 
 from notebook import Notebook, Note
 import sys
+
 
 class Menu:
 
