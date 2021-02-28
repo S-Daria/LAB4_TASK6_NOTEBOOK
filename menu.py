@@ -1,3 +1,10 @@
+"""
+Daria Shabatska
+LAB4 TASK6
+Menu class
+"""
+
+
 from notebook import Notebook, Note
 import sys
 

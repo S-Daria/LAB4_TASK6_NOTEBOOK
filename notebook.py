@@ -1,3 +1,10 @@
+"""
+Daria Shabatska
+LAB4 TASK6
+Note class
+"""
+
+
 import datetime
 # Store the next available id for all new notes
 last_id = 0
